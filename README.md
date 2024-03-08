@@ -13,4 +13,4 @@ The classification model implemented in this repository uses Logit Regression fo
 Required libraries (numpy, pandas, scikit-learn, etc.)
 
 # Outcome
-* The model will output the predicted survival outcome for the passenger.[open](
+* The model will output the predicted survival outcome for the passenger.[open](https://github.com/PrernaSinha15/CLASSIFICATION/blob/main/SLC.ipynb)
